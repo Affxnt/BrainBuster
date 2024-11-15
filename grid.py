@@ -1,7 +1,3 @@
-# Created by: Affan Thameem
-# COMP 348 Fall 2024
-# November 15th 2024
-
 import random
 
 class Grid:
